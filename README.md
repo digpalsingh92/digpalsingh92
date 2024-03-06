@@ -1,5 +1,5 @@
 # 💫 About Me:
-passionate Full Stack developer<br>Currently working on Modern Todo poject
+passionate Full Stack developer<br>Currently working on Modern Todo project
 
 
 ## 🌐 Socials:
