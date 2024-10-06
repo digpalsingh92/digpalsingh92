@@ -1,6 +1,7 @@
+<center>Digpal Signh</center>
 # 💫 About Me:
 <ul>
-<li>I'm currently working on a Task Management App</li>
+<li>I'm currently working on a few Personal Projects</li>
 <li>I'm currently learning and advancing MERN, Next JS</li>
 <li>All of my Projects available at</li><a target="_blank" href="https://github.com/digpalsingh92?tab=repositories"></a> 
 </ul>
