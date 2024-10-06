@@ -1,4 +1,3 @@
-<center>Digpal Signh</center>
 # 💫 About Me:
 <ul>
 <li>I'm currently working on a few Personal Projects</li>
